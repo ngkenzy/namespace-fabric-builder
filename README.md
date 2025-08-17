@@ -1,3 +1,5 @@
+[![CI](https://github.com/ngkenzy/namespace-fabric-builder/actions/workflows/ci.yml/badge.svg)](https://github.com/ngkenzy/namespace-fabric-builder/actions)
+
 # Namespace Fabric Builder
 
 **Story:** Spin up realistic multi-namespace topologies with `ip netns`, veth pairs, bridges, and `tc netem`. Export a ping/iperf matrix for verification.
